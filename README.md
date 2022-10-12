@@ -12,7 +12,7 @@ If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](d
 
 Before running the application for the first time,
 you need to do the steps documented in [`docs/oauth.md`](docs/oauth.md).
-
+git remote add starter https://github.com/ucsb-cs156-f22/STARTER-jpa03
 Otherwise, when you try to login for the first time, you 
 will likely see an error such as:
 
